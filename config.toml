@@ -7,7 +7,6 @@ paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
-publishDir = "docs"
 
 [module]
   [module.hugoVersion]
