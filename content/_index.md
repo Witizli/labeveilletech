@@ -1,5 +1,6 @@
 ---
-title: You don't start out writing good stuff
+#title: You don't start out writing good stuff
+title: Designer d'interface digital
 description: The hallway smelt of boiled cabbage and old rag mats.
 ---
 
