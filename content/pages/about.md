@@ -1,5 +1,5 @@
 ---
-title: 'About'
+title: "About"
 image: images/writer.jpeg
 url: "about"
 menu:
