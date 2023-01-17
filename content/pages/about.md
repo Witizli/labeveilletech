@@ -22,6 +22,10 @@ Très complémentaire avec mon premier métier et me permet de devenir un futur 
 
 > [**Benaiah Artiste Digital**](https://finkel.ch)
 
+## Mon Ikigai
+
+<img src="../images/IKIGAI_benaiah.png">
+
 ## Fiche de Domaine
 
 **Domaine**
