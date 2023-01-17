@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: images/writer.jpeg
+title: "A propos de moi"
+image: images/about_me.png
 url: "about"
 menu:
   main:
