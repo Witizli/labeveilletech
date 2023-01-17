@@ -8,9 +8,21 @@ menu:
     weight: 3
 ---
 
-## Contra vagos
+## Mon parcours
 
-Lorem _markdownum notam si_ lintea meque certa [en meumque
+Je suis un designer spécialisé dans les contenus interactifs et digitaux. Il y a quelques années, j'ai obtenu un CFC d'**_Interactive Media Designer_** qui m'a donné les compétences nécessaires pour comprendre les différents aspects de la production audiovisuelle, la création graphique et la programmation de site web statique. Grâce à cela, je maîtrise aisément la suite Adobe.
+
+Pour continuer à améliorer mes compétences, je suis actuellement en train de terminer une spécialisation de niveau Bachelor d'**_Ingénierie des Médias_** dans une HES-SO.
+
+> Ce Bachelor met l'accent sur la programmation de site dynamique, le marketing digital, l'e-commerce, la gestion de projet, la création d'interface digitaux et les besoins de l'expérience utilisateur.
+
+Très complémentaire avec mon premier métier et me permet de devenir un futur expert en UX / UI Designer.
+
+## Visiter mon Portfolio
+
+> [**Benaiah Artiste Digital**](https://finkel.ch)
+
+<!-- Lorem _markdownum notam si_ lintea meque certa [en meumque
 illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
 [Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
 sine satis vocat praedam moverat, precor, non sola bovis neque mihi. Primum
@@ -24,7 +36,7 @@ utilis nympham, et certus amplexas Deiphobum palmis credas ambo, nec.
 virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
 licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
 quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+ancora. -->
 
 ## Ducem oculos pallor tale quoque
 
