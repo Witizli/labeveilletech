@@ -22,6 +22,31 @@ Très complémentaire avec mon premier métier et me permet de devenir un futur 
 
 > [**Benaiah Artiste Digital**](https://finkel.ch)
 
+## Fiche de Domaine
+
+**Domaine**
+
+Expérience utilisateur / Interface utilisateur – Conception Site / Application Web
+Design d’interface web et application. Technologie : Figma, Illustrator
+
+---
+
+**Mots-clés**
+
+Maquette, wireframe, hiérarchisation de l’information, identité graphique, laboratoire d’observation, expérience, test, responsive, design
+
+---
+
+**Sous-domaines**
+
+Mise en place de recherche d’une expérience d’utilisation agréable, ergonomique et simple d’accès. Création de wireframes, maquette, interaction, animation liée à un site / App Web.
+
+---
+
+**Pourquoi ?**
+
+La réflexion sur la conception de produits digitaux est passionnante. Il s'agit d'un domaine crucial pour garantir une utilisation efficace par les utilisateurs. Un produit mal conçu ne fonctionnera pas correctement. Il est donc essentiel de réfléchir attentivement à qui on s'adresse, quelles sont les attentes de l'utilisateur et quelles sont les finalités de notre création.
+
 <!-- Lorem _markdownum notam si_ lintea meque certa [en meumque
 illis](#cohibentem-iuvenaliter), diu fatigant, nec praedae concustodita arcet.
 [Paviunt castris](#nemorisque-urimur-violentus) cur errat ventis causa! Silvas
