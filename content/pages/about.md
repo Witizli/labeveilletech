@@ -67,7 +67,7 @@ licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
 quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
 ancora. -->
 
-## Ducem oculos pallor tale quoque
+<!-- ## Ducem oculos pallor tale quoque
 
 Pectora de Hebe veste mansit nemorisque oppugnare deos, interea eo calescit
 **invita insidiae** Amymonen, semper respiciens vocato, illis! Coruscis ut somno
@@ -89,4 +89,4 @@ deus inserit sit tua. Pompa non precor procumbit inania lacrimas sacra credetis:
 Oceano, femina?
 
 Bacchantum neque. Humum ut violasse quam inmotos! Danae aera vertitur potiere
-scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_.
+scopuloque pecus, ut animam aversata Iovis, petentes aura, _montibus_. -->
