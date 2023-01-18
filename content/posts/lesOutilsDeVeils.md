@@ -16,6 +16,16 @@ De plus, en tant que concepteur d'interface digital, il est important de respect
 
 ## Les outils de veille
 
+**Les outils**
+
+[Muzli](https://muz.li/) est un système de veille disponible sur le navigateur Google Chrome. Il suffit d'installer l'extension pour que Muzli devienne la page d'accueil lors de l'ouverture du navigateur. Muzli est spécialisé dans la veille de Design. Design graphique, design d'interface web, d'architecture et, etc. Muzli permet de voir l'évolution du design à chaque ouverture du navigateur. Il est possible de sélectionner avec précision les domaines que nous souhaitons voir en priorité.
+
+[UX Collective](https://uxdesign.cc/)
+
+[Medium](https://medium.com/) un site de veille très complet dans de nombreux domaines. Medium permet de rechercher rapidement des articles proposés par des professionnels. Très complet pour l'UX et l'UI. Medium propose tous les jours de nouveau contenus.
+
+---
+
 **Les blogs**
 
 ---
@@ -23,6 +33,10 @@ De plus, en tant que concepteur d'interface digital, il est important de respect
 **Youtube**
 
 [Basti UI](https://www.youtube.com/@BastiUi) une chaine YouTube avec une personnalité très sympathique. Basti UI parle des tendances de design d'interface. Il décortique des sites web existants. Et donne des astuces dans la création d'interfaces.
+
+[DesignSenss](https://www.youtube.com/@DesignSense) est une chaine Youtube qui met en avant les tendances d'interfaces digital. DesignSens parle d'UX / UI, mais également de design digital globalitée.
+
+[DesignCourse](https://www.youtube.com/@DesignCourse) met en avant des cours dans la conception d'interface web et application mobile. La page met en avant l'utilisation du logiciel Figma. Ce qui permet d'améliorer ses compétences avec ce software.
 
 ---
 
