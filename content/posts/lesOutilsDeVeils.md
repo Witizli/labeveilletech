@@ -22,6 +22,8 @@ De plus, en tant que concepteur d'interface digital, il est important de respect
 
 **Youtube**
 
+[Basti UI](https://www.youtube.com/@BastiUi) une chaine YouTube avec une personnalité très sympathique. Basti UI parle des tendances de design d'interface. Il décortique des sites web existants. Et donne des astuces dans la création d'interfaces.
+
 ---
 
 **Pour aller plus loins**
