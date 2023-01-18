@@ -18,16 +18,4 @@ Il est important de comprendre que les animations d'interfaces aident grandement
 
 L'article est très intéressant à parcourir, car il permet de réaliser que les animations d'interfaces sont un aspect bien complexe dans le design d'interface. Un aspect qu'il ne faut pas négliger. Au contraire, il est important d'avoir une réflexion en amont sur de telles animations. En effet, si le designer ne réfléchit pas convenablement, alors le développeur risque de ne pas avoir l'expérience nécessaire afin de réaliser une bonne animation.
 
-<img src="../../static/images/about_me.png">
-
-<img src="../../docs/images/author.jpg">
-
-<img src="../../public/images/author.jpg">
-
-<img src="public/images/author.jpg">
-<img src="docs/images/author.jpg">
-<img src="static/images/author.jpg">
-
-<img src="../public/images/author.jpg">
-<img src="../docs/images/author.jpg">
-<img src="../static/images/author.jpg">
+<img src="/images/tabsSlide.gif">
