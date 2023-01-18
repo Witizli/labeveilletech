@@ -20,10 +20,11 @@ L'article est très intéressant à parcourir, car il permet de réaliser que le
 
 <img src="/images/tabsSlide.gif">
 
-Dans l'exemple ci-dessus, **_Pablo Stanley_** démontre que pour une même utilisation, une animation de transition apporte beaucoup. Il y a deux onglets, l'un a gauche et l'autre a droite. Cliquer affiche l'un et cache l'autre. Et vice-versa.
+Dans l'exemple ci-dessus, **_Pablo Stanley_** démontre que pour une même utilisation, une animation de transition apporte beaucoup. Il y a deux onglets, l'un à gauche et l'autre à droite. Cliquer affiche l'un et cache l'autre. Et vice-versa.
 
-Dans la version de droite le clique permet a la section de naviguer vers la gauche ou la droite. Ce qui permet pour l'utilisateur d'avoir une meilleur représentation de l'espace à travers l'interface. De plus, cette animation de transition permet également de créer une navigation avec un _swipe_ de gauche à droite. Ce qui facilite encore d'avengage l'expérience de l'utilisateur.
+Dans la version de droite, la clique permet à la section de naviguer vers la gauche ou la droite. Ce qui permet pour l'utilisateur d'avoir une meilleure représentation de l'espace à travers l'interface. De plus, cette animation de transition permet également de créer une navigation avec un _swipe_ de gauche à droite. Ce qui facilite encore d'avantage l'expérience de l'utilisateur.
 
+<img src="/images/connectElements.gif">
 <img src="/images/pushOther.gif">
 
 Dans ce deuxième exemple ci-dessus, c'est le même principe. L'animation va faire en sorte que l'élément sélectionné va prendre tout l'espace. Dans l'un, les autres éléments disparaissent. Alors que dans l'autre, l'élément sélectionné va pousser les autres éléments en dehors du champ de vision. De cette façon, rien ne disparait, pour l'utilisateur cela améliore la compréhension de l'interface. Les autres sections sont toujours visibles, elles sont simplement en dehors du champ de vision. Elles n'ont pas disparu.
@@ -37,6 +38,13 @@ Encore une fois, l'animation du bouton dans les deux cas veut dire la même chos
 ### Autres systèmes d'animations de transition
 
 <img src="/images/bringAttention.gif">
+
+> Accentue qu'un élément est important
+
 <img src="/images/cascading effect.gif">
+
+> Rends la lecture d'un grand nombre d'éléments plus agréable. L'apparition est plus douce.
+
 <img src="/images/menusAppear.gif">
-<img src="/images/connectElements.gif">
+
+> Rends l'ouverture de la boite plus naturelle
