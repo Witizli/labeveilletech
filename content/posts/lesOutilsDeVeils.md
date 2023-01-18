@@ -20,7 +20,7 @@ De plus, en tant que concepteur d'interface digital, il est important de respect
 
 [Muzli](https://muz.li/) est un système de veille disponible sur le navigateur Google Chrome. Il suffit d'installer l'extension pour que Muzli devienne la page d'accueil lors de l'ouverture du navigateur. Muzli est spécialisé dans la veille de Design. Design graphique, design d'interface web, d'architecture et, etc. Muzli permet de voir l'évolution du design à chaque ouverture du navigateur. Il est possible de sélectionner avec précision les domaines que nous souhaitons voir en priorité.
 
-[NewFlux](https://newflux.fr/) _l'actualité du design racontée par des passionnés_ voila le titre de ce site web. Très intéressant pour les métiers en lien avec le design digital. NewFlux est un site web où l'on discute de l'actualité en UX / UI. La plateforme propose également des sujets spécifiques afin d'améliorer la création des contenus digitaux.
+[NewFlux](https://newflux.fr/) _L'actualité du design racontée par des passionnés_ voila le titre de ce site web. Très intéressant pour les métiers en lien avec le design digital. NewFlux est un site web où l'on discute de l'actualité en UX / UI. La plateforme propose également des sujets spécifiques afin d'améliorer la création des contenus digitaux.
 
 [Medium](https://medium.com/) un site de veille très complet dans de nombreux domaines. Medium permet de rechercher rapidement des articles proposés par des professionnels. Très complet pour l'UX et l'UI. Medium propose tous les jours de nouveau contenus.
 
