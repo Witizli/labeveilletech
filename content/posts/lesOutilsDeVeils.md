@@ -28,4 +28,8 @@ De plus, en tant que concepteur d'interface digital, il est important de respect
 
 Un designer UX/UI doit observer au-delà de son domaine d'expertise. Le web est tellement vaste qu'il est important de comprendre les autres aspects liés à celui-ci. Il est donc judicieux de se tenir informé des dernières évolutions en matière de technologies digitales.
 
-[Benjamin Code](https://www.youtube.com/@BenjaminCode)
+[Benjamin Code](https://www.youtube.com/@BenjaminCode) un indépendant en développement Front-end. Il propose des vidéos régulières sur les tendances du web. Benjamin met en avant également des chalenges de programmation. Il va mettre en avant de nouvelles technologies de design font-end, ce qui permet à un UX / UI Designer de prendre connaissance des nouvelles possibilités de design web.
+
+[MDMZ](https://www.youtube.com/@MDMZ) Présentation d'une chaine YouTube afin de développer ces compétences en Photoshop et After Effects. Un Designer d'interface doit pouvoir réaliser des productions et photographies de qualité. Il est par conséquent important de développer ces connaissances avec le logiciel Photoshop d’Adobe.
+
+[Graphic Design with Elena](https://www.youtube.com/@GraphicDesignwithElena) Développer ces compétences avec Illustrator d'Adobe est très important. Un UI Designer travail principapelement avec un logiciel de création d'interface comme Figma. La ou Illustrator est intéressant, c'est qu'il est bien plus complet comme logiciel de création de contenu vectoriel. Ils permet de réaliser des design de grande qualitées afin de concevoir une interface design.
