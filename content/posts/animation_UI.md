@@ -36,12 +36,12 @@ Dans l'exemple ci-dessus, **_Pablo Stanley_** démontre que pour une même utili
 
 Dans la version de droite, la clique permet à la section de naviguer vers la gauche ou la droite. Ce qui permet pour l'utilisateur d'avoir une meilleure représentation de l'espace à travers l'interface. De plus, cette animation de transition permet également de créer une navigation avec un _swipe_ de gauche à droite. Ce qui facilite encore d'avantage l'expérience de l'utilisateur.
 
-<img src="/images/connectElements.gif">
-<img src="/images/pushOther.gif">
+<img src="/labeveilletech/images/connectElements.gif">
+<img src="/labeveilletech/images/pushOther.gif">
 
 Dans ce deuxième exemple ci-dessus, c'est le même principe. L'animation va faire en sorte que l'élément sélectionné va prendre tout l'espace. Dans l'un, les autres éléments disparaissent. Alors que dans l'autre, l'élément sélectionné va pousser les autres éléments en dehors du champ de vision. De cette façon, rien ne disparait, pour l'utilisateur cela améliore la compréhension de l'interface. Les autres sections sont toujours visibles, elles sont simplement en dehors du champ de vision. Elles n'ont pas disparu.
 
-<img src="/images/buttonsStates.gif">
+<img src="/labeveilletech/images/buttonsStates.gif">
 
 Encore une fois, l'animation du bouton dans les deux cas veut dire la même chose. Toutefois, dans la deuxième version, le bouton se transforme en barre de chargement. L'utilisateur comprend qu'il se passe quelque chose. De plus, il voit l'évolution du chargement. C'est un seul élément qui évolue et donne beaucoup d'information. Il n'y a pas plusieurs éléments qui complexifient l'interface tout en donnant moins d'information.
 
@@ -49,14 +49,14 @@ Encore une fois, l'animation du bouton dans les deux cas veut dire la même chos
 
 ### Autres systèmes d'animations de transition
 
-<img src="/images/bringAttention.gif">
+<img src="/labeveilletech/images/bringAttention.gif">
 
 > Accentue qu'un élément est important
 
-<img src="/images/cascading effect.gif">
+<img src="/labeveilletech/images/cascading effect.gif">
 
 > Rends la lecture d'un grand nombre d'éléments plus agréable. L'apparition est plus douce.
 
-<img src="/images/menusAppear.gif">
+<img src="/labeveilletech/images/menusAppear.gif">
 
 > Rends l'ouverture de la boite plus naturelle
