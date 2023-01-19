@@ -1,21 +1,26 @@
 ---
-title: "Les outils d’un Designer UX, du papier au pixel"
-date: 2023-01-19T18:46:14+01:00
-description: "Les outils d'un bon designer UI sont essentiels pour créer des designs efficaces et esthétiques pour les supports numériques. Pour commencer, le processus de design commence souvent par le crayon et le papier."
+title: "Le métier de l'UX Designer"
+date: 2023-01-19T20:24:14+01:00
+description: "Un bon UX designer peut utiliser plusieurs outils pour mener à bien ses projets. Voici quelques exemples d'outils couramment utilisés dans le domaine de l'expérience utilisateur"
 image: images/wireframe_outil_ui_designer.jpeg
 draft: false
 ---
 
 Un bon UX designer peut utiliser plusieurs outils pour mener à bien ses projets. Voici quelques exemples d'outils couramment utilisés dans le domaine de l'expérience utilisateur :
 
-Wireframing et prototypage : Ces outils permettent de créer des maquettes de l'interface utilisateur et de tester les idées avant de les mettre en production. Exemples : Figma, Adobe XD, InVision
+<!-- - Analyse du site web / application existant
+- Hiérarchisation de l'information
+- Test utilisateur de tri de carte afin de valider des hyopthèse de hiérarchisation
+- Création de persona afin de mieux comprendre qui sont les utilisateurs
+- création de sidemap afin de réaliser différentes parcours utilisateurs.
+- Test de l'interface avec une technique de pensée à voix haute.  -->
 
-Analyse des données utilisateurs : Ces outils permettent de collecter et d'analyser les données sur les utilisateurs pour comprendre leurs besoins et leur comportement. Exemples : Google Analytics, Mixpanel
+L'analyse du site web ou de l'application existant est un outil clé pour l'UX designer. Il permet de comprendre les forces et les faiblesses de l'interface actuelle et de déterminer les zones à améliorer. Cela peut inclure l'analyse de la navigation, du contenu, de l'expérience utilisateur et des performances.
 
-Évaluation de l'expérience utilisateur : Ces outils permettent de tester l'interface utilisateur avec des utilisateurs réels pour évaluer son utilisabilité et sa satisfaction. Exemples : UserTesting, Optimal Workshop
+La hiérarchisation de l'information est également importante pour l'UX designer. Il s'agit de déterminer l'importance de chaque élément de l'interface et de les organiser en conséquence. Cela peut inclure la détermination de la taille et de la couleur des éléments, ainsi que leur emplacement sur la page.
 
-Gestion de projet : Ces outils permettent de gérer les tâches et les délais des projets, de communiquer avec les équipes et les clients. Exemples : Trello, Asana, Jira
+Les tests utilisateurs de tri de carte sont utilisés pour valider les hypothèses de hiérarchisation de l'information. Les utilisateurs sont invités à classer différents éléments d'une interface en fonction de leur importance, ce qui permet de vérifier si les hypothèses de l'UX designer sont correctes.
 
-Design thinking : Ces outils permettent de mieux comprendre les utilisateurs et leurs besoins pour créer des produits qui répondent à leurs attentes. Exemples : Design sprint, personas, carte de l'expérience utilisateur
+La création de persona est un outil utilisé pour mieux comprendre les utilisateurs. Il s'agit de créer des profils fictifs des utilisateurs cibles, y compris leurs besoins, leurs objectifs et leur comportement. Cela permet de créer une expérience utilisateur plus adaptée à ces utilisateurs. La création de sidemap est également un outil utile pour réaliser différents parcours utilisateurs. Il permet de planifier les différentes étapes de l'expérience utilisateur et de déterminer les pages et les éléments nécessaires pour chaque étape.
 
-Il est important de noter que ces outils ne sont pas exhaustifs, et qu'un bon UX designer peut utiliser d'autres outils selon les besoins de son projet.
+Enfin, le test de l'interface à l'aide de la technique de pensée à voix haute permet d'évaluer la compréhension des utilisateurs face à l'interface proposée, en notant les éléments qu'ils comprennent et ceux qui les posent des problèmes.

@@ -53,7 +53,7 @@ Encore une fois, l'animation du bouton dans les deux cas veut dire la même chos
 
 > Accentue qu'un élément est important
 
-<img src="/labeveilletech/images/cascading effect.gif">
+<img src="/labeveilletech/images/cascadingEffect.gif">
 
 > Rends la lecture d'un grand nombre d'éléments plus agréable. L'apparition est plus douce.
 
