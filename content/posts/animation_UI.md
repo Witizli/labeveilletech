@@ -6,9 +6,21 @@ image: images/animationHeader.webp
 draft: false
 ---
 
-> Autheur Pablo Stanley <br> [Source de l'article et des images](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
+# Pourquoi réaliser des animations d'interfaces
 
-# L'animation et les interfaces digitales
+Les animations peuvent jouer un rôle crucial dans la création d'une expérience utilisateur réussie. Tout d'abord, elles peuvent attirer l'attention de l'utilisateur sur les éléments importants de l'interface tels que les boutons de navigation ou les messages d'erreur. Cela permet à l'utilisateur de comprendre rapidement où se trouvent les actions clés et les informations importantes, ce qui améliore l'efficacité et la rapidité de la navigation.
+
+De plus, les animations peuvent rendre l'interface plus agréable à utiliser en ajoutant une dimension de mouvement et de dynamisme. Les utilisateurs sont plus enclins à interagir avec une interface qui est animée et vivante plutôt qu'une interface statique et plate. Les animations peuvent également ajouter de la personnalité à un site web ou une application, et les rendre plus mémorables pour l'utilisateur.
+
+En soit, les animations peuvent indiquer à l'utilisateur qu'une action est en cours, comme le chargement d'une page ou d'une fonctionnalité. Cela permet à l'utilisateur de savoir ce qui se passe et de comprendre pourquoi certains éléments de l'interface sont actuellement inactifs ou indisponibles. Cela peut également aider à réduire l'anxiété de l'utilisateur en lui donnant une indication visuelle de l'avancement d'une action.
+
+Enfin, les animations peuvent guider l'utilisateur à travers une interface en indiquant clairement les étapes à suivre pour accomplir une tâche. Cela peut aider les utilisateurs qui peuvent être moins familiers avec l'interface à naviguer plus facilement et à réaliser les tâches pour lesquelles ils ont ouvert l'application. Les animations peuvent également aider à améliorer la compréhension de l'utilisateur en montrant les étapes d'une action ou en mettant en évidence les éléments importants.
+
+Il est important de noter que les animations doivent être utilisées avec parcimonie et doivent être pertinentes pour l'expérience utilisateur pour être efficaces. En utilisant des animations inutiles ou ennuyeuses, vous pouvez en fait nuire à l'expérience utilisateur au lieu de la renforcer. Il est donc important de bien réfléchir à leur utilisation pour qu'elle apporte une valeur ajoutée à l'expérience utilisateur.
+
+## L'animation et les interfaces digitales
+
+> Autheur Pablo Stanley <br> [Source de l'article et des images](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
 
 Les interfaces digitales peuvent être froides et difficiles à comprendre. C'est pourquoi il est important d'utiliser des animations pour les rendre plus vivantes et faciliter la compréhension de l'utilisateur. Les animations aident également à interpréter le support digital et rendent l'interface plus moderne et ludique.
 
@@ -18,7 +30,7 @@ Il est important de comprendre que les animations d'interfaces aident grandement
 
 L'article est très intéressant à parcourir, car il permet de réaliser que les animations d'interfaces sont un aspect bien complexe dans le design d'interface. Un aspect qu'il ne faut pas négliger. Au contraire, il est important d'avoir une réflexion en amont sur de telles animations. En effet, si le designer ne réfléchit pas convenablement, alors le développeur risque de ne pas avoir l'expérience nécessaire afin de réaliser une bonne animation.
 
-<img src="/images/tabsSlide.gif">
+<img src="/labeveilletech/images/tabsSlide.gif">
 
 Dans l'exemple ci-dessus, **_Pablo Stanley_** démontre que pour une même utilisation, une animation de transition apporte beaucoup. Il y a deux onglets, l'un à gauche et l'autre à droite. Cliquer affiche l'un et cache l'autre. Et vice-versa.
 
@@ -37,11 +49,11 @@ Encore une fois, l'animation du bouton dans les deux cas veut dire la même chos
 
 ### Autres systèmes d'animations de transition
 
-<img src="/labeveilletech/images/bringAttention.gif">
+<img src="/images/bringAttention.gif">
 
 > Accentue qu'un élément est important
 
-<img src="labeveilletech/images/cascading effect.gif">
+<img src="/images/cascading effect.gif">
 
 > Rends la lecture d'un grand nombre d'éléments plus agréable. L'apparition est plus douce.
 
