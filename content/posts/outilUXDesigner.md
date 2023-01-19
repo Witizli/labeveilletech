@@ -1,10 +1,20 @@
 ---
 title: "Le métier de l'UX Designer"
 date: 2023-01-19T20:24:14+01:00
-description: "Un bon UX designer peut utiliser plusieurs outils pour mener à bien ses projets. Voici quelques exemples d'outils couramment utilisés dans le domaine de l'expérience utilisateur"
+description: "L'UX designer joue un rôle clé dans la création de produits et de services qui répondent aux besoins et aux attentes des utilisateurs. Cela peut contribuer à augmenter la satisfaction des utilisateurs"
 image: images/wireframe_outil_ui_designer.jpeg
 draft: false
 ---
+
+# Pourquoi investir dans l'UX Designer
+
+L'UX designer joue un rôle clé dans la création de produits et de services qui répondent aux besoins et aux attentes des utilisateurs. Cela peut contribuer à augmenter la satisfaction des utilisateurs, à améliorer l'expérience utilisateur et à augmenter la fidélité des utilisateurs. En conséquence, cela peut également aider les entreprises à augmenter leurs ventes et à améliorer leur rentabilité.
+
+En mettant l'accent sur l'expérience utilisateur, l'UX designer peut contribuer à améliorer la qualité perçue des produits et des services proposés par une entreprise. Cela peut également aider à différencier les produits de la concurrence, en offrant une expérience utilisateur unique et adaptée aux besoins des utilisateurs.
+
+Enfin, en étant en mesure de concevoir des produits et des services qui répondent aux besoins des utilisateurs, l'UX designer peut aider les entreprises à économiser de l'argent en réduisant les coûts liés à la conception de produits et de services qui ne répondent pas aux besoins des utilisateurs et qui sont donc moins performants. Il peut également aider les entreprises à économiser de l'argent en réduisant les coûts liés à la gestion des retours et des réclamations liés à des produits et des services qui ne répondent pas aux besoins des utilisateurs.
+
+## Les outils du designer en expérience utilisateur
 
 Un bon UX designer peut utiliser plusieurs outils pour mener à bien ses projets. Voici quelques exemples d'outils couramment utilisés dans le domaine de l'expérience utilisateur :
 
