@@ -47,6 +47,12 @@ Encore une fois, l'animation du bouton dans les deux cas veut dire la même chos
 
 > L'article permet de mettre en avant et de comprendre l'importante d'une bonne animation d'interface.
 
+### Pour la suite
+
+L'article de Pablo Stanley montre à quel point les animations peuvent être importantes dans l'expérience utilisateur. Pour la suite des projets, je comprends d'avantages qu'il est nécessaire d'apporter des animations. Et qu'il existe un niveau de performance d'animation. Il ne faut pas faire une animation de transition pour en faire une. Mais celle-ci doit servir l'interface. L'animation doit aider l'utilisateur à mieux comprendre le système. C'est un point très important que Pablo Stanley démontre dans son article.
+
+Maintenant, est-il nécessaire d'apporter une telle complexité dans chacun de mes prochains projets ? Je peux affirmer que même si les animations démontrées apportent une véritable plus-value, ils ne sont pas nécessaires pour chacun des projets. Cela dépend du contexte et de l'investissement qu'il est possible de donner. Pour un petit projet, l'investissement des animations est certainement trop important. Toutefois, pour un grand projet qui permet un investissement total, alors la réflexion à avoir avec les animations est totalement justifiée.
+
 ### Autres systèmes d'animations de transition
 
 <img src="/labeveilletech/images/bringAttention.gif">
