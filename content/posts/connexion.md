@@ -22,6 +22,16 @@ L'auteur de l'article insiste sur le fait que la page de connexion est probablem
 
 <img src="/labeveilletech/images/afficherMotDePasse.webp">
 
+Dans ce point,**_Alex Slatkus_** exprime le fait qu'un champ de formulaire destiné au mot de passe se doit d'avoir la possibilité d'afficher ou de cacher le contenu du champ. C'est une possibilité qui facilite grandement l'expérience de l'utilisateur. Avoir la possibilité de voir où est l'erreur dans le mot de passe pour rapidement corriger cette erreur. Aulieu de devoir tous récrire à chaque fois.
+
+L'auteur insiste sur le fait que c'est un besoin plus que nécessaire sur les interfaces mobile. En effet, l'erreur est plus fréquente sur ces minuscules claviers numériques que sur un clavier physique.
+
+Dans l'illustration au-dessus, l'auteur en profite également pour montrer le mauvais exemple de mettre un lien d'oublie du mot de passe directement sur le champ de mot de passe. Ce qui est une très mauvaise pratique.
+
+### 2. Du contenu marketing distrayant
+
+<img src="/labeveilletech/images/connexionMarketing.webp">
+
 ### Pour la suite
 
 L'article de **_Alex Slatkus_** est un article intéressant qui permet d'apporter une attention à la page de connexion. Ces informations et son expérience sont très intéressantes à prendre en compte pour de prochains projets. À l'avenir, lorsque je vais devoir designer une interface de connexion, je vais alors pouvoir me référer à l'expérience de **_Alex Slatkus_**.
