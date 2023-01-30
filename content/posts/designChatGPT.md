@@ -20,10 +20,38 @@ Plutôt que de voir ces nouvelles technologiques comme étant des "tueur" du mé
 
 Dans cet article, je vais mettre en avant les points les plus importants. Pour voir les 25 points, il faudra se rendre sur l'article de Thalion présenté plus haut.
 
-### 1. Générer du contenu texte provisoir
+### 1. Générer du contenu texte provisoire
 
 <img src="/labeveilletech/images/chatGPTLoremIpsum.webp">
 
 Lors de construction de site web, l'outil Lorem Ipsum est un véritable atout. Cela permet de créer un texte fictif qui permet de remplir une future zone de texte.
 
 Cependant, avec ChatGPT, il devient facile de créer un contenu fictif qui est en lien avec l'élément. De ce fait, même si le texte reste temporaire avant le texte final, il est très intéressant d'avoir un texte fictif qui permet de mieux se rendre compte de l'ambiance générale du produit dans sa version final.
+
+### 2. Optimiser le texte déjà créé
+
+<img src="/labeveilletech/images/chatGPTLoremIpsum2.webp">
+
+Si le texte fictif généré ne plait pas, il est possible de l'optimiser facilement. Jusqu'a obtenir le bon texte. Il est possible de préciser le nombre de caractères, de lignes et de paragraphes souhaité. Il faut tout de même faire attention, car l'IA possède également ces limites.
+
+<img src="/labeveilletech/images/chatGPTLoremIpsum3.webp">
+
+### 3. Obtenir les premières idées de conception d'interface
+
+<img src="/labeveilletech/images/chatGPTWireframe.webp">
+
+Lors de délai serré ou si l'on se sent coincé, **_Thalion_** propose d'utiliser ChatGPT afin de réaliser les premières idées. Il ne faut bien sûr pas réaliser le wireframe décrit par ChatGPT. Toutefois, cela peu potentiellement permettre de s'inspirer des meilleures propositions de l'IA.
+
+### 4. Quel est le bon test d'utilisabilité
+
+<img src="/labeveilletech/images/chatGPTSuggesteTest.webp">
+
+Il existe de nombreux tests d'utilisabilité. Il faut toutefois savoir quel est le bon test à exécuter afin d'obtenir les résultats les plus complets. Selon **_Thalion_**, ChatGPT peut nous informer sur les méthodes les plus adéquates pour le site web ou l'application définie.
+
+### 5. Trouver comment expliquer les thermes de conception compliqués aux autres membres de l'équipe qui ne sont pas du domaine.
+
+<img src="/labeveilletech/images/chatGPTExpliquerTherme.webp">
+
+L'IA peut permettre de reformuler des concepts. Nous avons l'habitude d'utiliser les thermes SUS, CTA, parcours utilisateur, carte empathie. Ce qui nous semble logique et acquis ne l'est pas forcément pour les personnes avec qui nous travaillons.
+
+Ainsi, il est possible de demander à ChatGPT d'expliquer de manière simple qu'est-ce qui se cache derrière ces différents concepts de conception UX / UI.
