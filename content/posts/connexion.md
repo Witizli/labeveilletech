@@ -53,7 +53,31 @@ Ce problème a lieu lors d'interface dans la langue en anglais. Il faut bien dif
 
 Ainsi, en anglais, la page de connexion prend le terme "Login". Alors que "Log in" étant l'action de se connecter. Ce terme doit donc se retrouver sur le bouton pour se connecter.
 
-L'erreur en français est moins fréquente, car nous disons "la page de connexion" et "où est la page pour se connecter?". Il est toutefois intéressant d'observer cette nuance et de pouvoir apporter le bon terme lors de design multilangues.
+L'erreur en français est moins fréquente, car nous disons "la page de connexion" et "où est la page pour se connecter?". Il est toutefois intéressant d'observer cette nuance et de pouvoir apporter le bon terme lors de design multilingues.
+
+### 4. Les champs de formulaires avec de petites largeurs
+
+<img src="/labeveilletech/images/connexionLongueurChamps.webp">
+
+Il est nécessaire de prendre en compte que certaines personnes ont de long nom et prénom. Par conséquent, leur e-mail risque également d'être long. C'est donc très gênant d'avoir un champ de formulaire qui n'affiche pas l'entièreté de l'e-mail. L'utilisateur peut rapidement se perdre.
+
+**_Alex Slatkus_** conseille d'avoir un champ de formulaire qui permet de contenir plus de 35 caractères avant que le champ ne doive défiler.
+
+<img src="/labeveilletech/images/connexionLongueurChamps2.webp">
+
+À l'inverse, faire des champs trop longs va déstabiliser l'utilisateur qui risque de se sentir intimidé.
+
+### 5. Avoir des points de mot de passe trop petits
+
+<img src="/labeveilletech/images/connexionPointPetitPass.webp">
+
+Ce n'est pas le point le plus important pour se connecter. Toutefois, cela peu rendre plus complexe l'expérience de l'utilisateur. En effet, lorsque nous entrons un mauvais mot de passe, un réflexe que nous pouvons tous avoir, c'est de regarder le champ mot de passe. Ce qui permet de nous rendre compte combien de caractères ont été inscrits. Par conséquent, si les points sont trop petits, alors il est difficile de pouvoir compter le nombre de caractères entrés. Ce qui forme l'utilisateur d'entrée à nouveau le mot de passe depuis le début.
+
+### 5. Le formulaire parfait selon Alex Slatkus
+
+<img src="/labeveilletech/images/goodconnexion.webp">
+
+> **_Alex Slatkus_** nous montre le formulaire parfait selon lui. Un formulaire qui respecte chacune des bonnes pratiques démontrées dans cet article.
 
 ### Pour la suite
 
