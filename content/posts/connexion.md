@@ -30,7 +30,7 @@ Dans l'illustration au-dessus, l'auteur en profite également pour montrer le ma
 
 ### 2. Du contenu marketing distrayant
 
-<img src="/labeveilletech/images/connexionMarketing.webp">
+<img src="/labeveilletech/images/connexionMarketing.webp" width="30%">
 
 L'auteur de l'article explique que les personnes qui travaillent dans le marketing voient la page de connexion comme une aubène pour du contenu publicitaire. Cependant, c'est apparement une très mauvaise pratique.
 
