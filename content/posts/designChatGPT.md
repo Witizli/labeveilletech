@@ -80,7 +80,7 @@ Selon **_Thalion_**, l'IA ChatGPT peut nous surprendre en optimisant le parcours
 
 ### 9. Obtenir un message précis
 
-<img src="/labeveilletech/images/cchatGPTPErreurMessage.webp">
+<img src="/labeveilletech/images/chatGPTPErreurMessage.webp">
 
 Comme dit plus haut, ChatGPT peut simuler un texte. Dans cet exemple, nous demandons à l'IA de générer un texte d'erreur lors d'une mauvaise action.
 
