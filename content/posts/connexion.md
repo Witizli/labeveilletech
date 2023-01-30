@@ -32,6 +32,14 @@ Dans l'illustration au-dessus, l'auteur en profite également pour montrer le ma
 
 <img src="/labeveilletech/images/connexionMarketing.webp">
 
+L'auteur de l'article explique que les personnes qui travaillent dans le marketing voient la page de connexion comme une aubène pour du contenu publicitaire. Cependant, c'est apparement une très mauvaise pratique.
+
+L'utilisateur va être distrayé lors de la connexion. De plus, le contenu marketing peu être perçu comme gênant pour l'utilisateur. Jusqu'au point ou il peut complètement empêcher l'utilisateur de comprendre ou sont les champs de formulaires.
+
+<img src="/labeveilletech/images/connexionMarketing2.webp">
+
+Dans cet exemple, l'auteur illustre l'apparition multiple de contenu marketing. De plus, ces différentes contenus ne s'affiche pas au même moment, ce qui risque de déconcentrer l'utilisateur.
+
 ### Pour la suite
 
 L'article de **_Alex Slatkus_** est un article intéressant qui permet d'apporter une attention à la page de connexion. Ces informations et son expérience sont très intéressantes à prendre en compte pour de prochains projets. À l'avenir, lorsque je vais devoir designer une interface de connexion, je vais alors pouvoir me référer à l'expérience de **_Alex Slatkus_**.
