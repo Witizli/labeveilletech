@@ -55,3 +55,35 @@ Il existe de nombreux tests d'utilisabilité. Il faut toutefois savoir quel est 
 L'IA peut permettre de reformuler des concepts. Nous avons l'habitude d'utiliser les thermes SUS, CTA, parcours utilisateur, carte empathie. Ce qui nous semble logique et acquis ne l'est pas forcément pour les personnes avec qui nous travaillons.
 
 Ainsi, il est possible de demander à ChatGPT d'expliquer de manière simple qu'est-ce qui se cache derrière ces différents concepts de conception UX / UI.
+
+### 6. Encore plus simple pour les non-initiés comme les clients
+
+<img src="/labeveilletech/images/chatGPTExpliquerTherme2.webp">
+
+Nous pouvons aller encore plus loin dans la simplification des concepts. Il est possibilité d'obtenir un texte explicatif facilement compréhensible pour les personnes qui ne sont pas ingénieurs ou technicien. C'est un point très intéressant afin de pouvoir expliquer facilement des concepts complexes aux clients.
+
+Il est possible d'aller encore plus loins. Par exemple en demandant de simplifier le concepte pour un enfant de six ans.
+
+<img src="/labeveilletech/images/chatGPTExpliquerTherme3.webp">
+
+### 7. Générer un parcours utilisateur
+
+<img src="/labeveilletech/images/chatGPTParcoursUtilisateur.webp">
+
+ChatGTP permet de générer un parcours d'un utilisateur. Ce qui permet d'accélérer la tache de réflexion. De plus, puisque ce n'est pas nous qui allons créer le parcours, nous n’allons pas réaliser un parcours utilisateur biaisé par les faiblesses de notre projet.
+
+### 8. Aller encore plus loins en optimizan le parcours
+
+<img src="/labeveilletech/images/chatGPTParcoursUtilisateur2.webp">
+
+Selon **_Thalion_**, l'IA ChatGPT peut nous surprendre en optimizan le parcours utilisateur généré plus haut.
+
+### 9. Obtenir un message précis
+
+<img src="/labeveilletech/images/cchatGPTPErreurMessage.webp">
+
+Comme dit plus haut, ChatGPT peut simuler un texte. Dans cet exemple, nous demandons à l'IA de générer un texte d'erreur lors d'une mauvaise action.
+
+Ce qui est également intéressant, c'est qu'il est possible de demander à ChatGPT de modifier le message d'erreur avec une forme différente. Par exemple dans l'exemple de réaliser un message d'erreur de manière plus amicale.
+
+<img src="/labeveilletech/images/chatGPTPErreurMessage2.webp">
