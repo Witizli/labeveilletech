@@ -42,6 +42,19 @@ Dans l'exemple au-dessus, la page de connexion souhaite communiquer à propos de
 
 Dans cet exemple, l'auteur illustre l'apparition multiple de contenu marketing. De plus, ces différents contenus ne s'affichent pas au même moment, ce qui risque de déconcentrer l'utilisateur.
 
+### 3. Confondre "Log in" et "Login"
+
+<img src="/labeveilletech/images/connexionLogin.webp">
+
+Ce problème a lieu lors d'interface dans la langue en anglais. Il faut bien différencier les deux. Ce n'est pas un grand problème qui en est. Mais cela permet de ne pas faire l'erreur et d'avoir une meilleure image auprès des utilisateurs.
+
+1. "Login" est le nom traduit en français par "Connexion"
+2. "Log in" est le verbe traduit en français par "Se connecter"
+
+Ainsi, en anglais, la page de connexion prend le terme "Login". Alors que "Log in" étant l'action de se connecter. Ce terme doit donc se retrouver sur le bouton pour se connecter.
+
+L'erreur en français est moins fréquente, car nous disons "la page de connexion" et "où est la page pour se connecter?". Il est toutefois intéressant d'observer cette nuance et de pouvoir apporter le bon terme lors de design multilangues.
+
 ### Pour la suite
 
 L'article de **_Alex Slatkus_** est un article intéressant qui permet d'apporter une attention à la page de connexion. Ces informations et son expérience sont très intéressantes à prendre en compte pour de prochains projets. À l'avenir, lorsque je vais devoir designer une interface de connexion, je vais alors pouvoir me référer à l'expérience de **_Alex Slatkus_**.
