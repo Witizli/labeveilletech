@@ -32,19 +32,21 @@ Dans l'illustration au-dessus, l'auteur en profite également pour montrer le ma
 
 <img src="/labeveilletech/images/connexionMarketing.webp" width="30%">
 
-L'auteur de l'article explique que les personnes qui travaillent dans le marketing voient la page de connexion comme une aubène pour du contenu publicitaire. Cependant, c'est apparement une très mauvaise pratique.
+L'auteur de l'article explique que les personnes qui travaillent dans le marketing voient la page de connexion comme une aubaine pour du contenu publicitaire. Cependant, c'est apparemment une très mauvaise pratique.
 
-L'utilisateur va être distrayé lors de la connexion. De plus, le contenu marketing peu être perçu comme gênant pour l'utilisateur. Jusqu'au point ou il peut complètement empêcher l'utilisateur de comprendre ou sont les champs de formulaires.
+L'utilisateur va être distrayé lors de la connexion. De plus, le contenu marketing peut être perçu comme gênant pour l'utilisateur. Jusqu'au point où il peut complètement empêcher l'utilisateur de comprendre où sont les champs de formulaires.
+
+Dans l'exemple au-dessus, la page de connexion souhaite communiquer à propos de cartes de crédit. **_Alex Slatkus_** insiste sur le fait que ces informations ne sont pas au bon endroit et que l'utilisateur peut être intéressé de lire ce contenu plus tard dans le site web.
 
 <img src="/labeveilletech/images/connexionMarketing2.webp">
 
-Dans cet exemple, l'auteur illustre l'apparition multiple de contenu marketing. De plus, ces différentes contenus ne s'affiche pas au même moment, ce qui risque de déconcentrer l'utilisateur.
+Dans cet exemple, l'auteur illustre l'apparition multiple de contenu marketing. De plus, ces différents contenus ne s'affichent pas au même moment, ce qui risque de déconcentrer l'utilisateur.
 
 ### Pour la suite
 
 L'article de **_Alex Slatkus_** est un article intéressant qui permet d'apporter une attention à la page de connexion. Ces informations et son expérience sont très intéressantes à prendre en compte pour de prochains projets. À l'avenir, lorsque je vais devoir designer une interface de connexion, je vais alors pouvoir me référer à l'expérience de **_Alex Slatkus_**.
 
-C'est pour ma part une bonne opportunité que d'avoir lu son article. Je n'étais pas aux claires sur l'ensemble de ces points à éviter. Typiquement d'avoir la réflexion de ne pas faire des champs de textes trop courts. Ou alors également de laisser une page de connexion sobre de toute annonce marketing.
+C'est pour ma part une opportunité que d'avoir lu son article. Je n'étais pas aux claires sur l'ensemble de ces points à éviter. Typiquement d'avoir la réflexion de ne pas faire des champs de textes trop courts. Ou alors également de laisser une page de connexion sobre de toute annonce marketing.
 
 > **_Alex Slatkus_** m’a permis de mettre en avant le fait qu'une page de connexion est la porte d'entrée du produit digital. Il est donc nécessaire d'appliquer toutes les bonnes pratiques.
 
