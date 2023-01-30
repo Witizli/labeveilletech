@@ -24,6 +24,8 @@ De plus, en tant que concepteur d'interface digital, il est important de respect
 
 [Medium](https://medium.com/) un site de veille très complet dans de nombreux domaines. Medium permet de rechercher rapidement des articles proposés par des professionnels. Très complet pour l'UX et l'UI. Medium propose tous les jours de nouveau contenus.
 
+[Prototypr.io](https://blog.prototypr.io/) une sous-catégorie du site web Medium. Le blog prototypr.io se spécialise dans la veille de domaine UX et UI. Une source actualisée régulièrement.
+
 ---
 
 **Les Réseaux Sociaux**
