@@ -14,6 +14,20 @@ La page de connexion est un aspect d'un site web qui peut facilement être négl
 
 > Autheur Alex Slatkus <br> [Source de l'article et des images](https://blog.prototypr.io/dont-do-these-things-on-your-login-page-78497189aa01)
 
-**_Alex Slatkus_** partage son avis basé sur son expérience des pages de connexion. Selon lui, il existe des bonnes pratiques a réaliser. Également de mauvaise pratique à ne surtout pas réaliser. C'est justement de quoi traite l'article. **_Alex Slatkus_** nous explique selon lui les cinq chose à éviter dans une page de connexion.
+**_Alex Slatkus_** partage son avis basé sur son expérience des pages de connexion. Selon lui, il existe de bonnes pratiques à réaliser. Également de mauvaise pratique à ne surtout pas réaliser. C'est justement de quoi traite l'article. **_Alex Slatkus_** nous explique selon lui les cinq choses à éviter dans une page de connexion.
 
-L'auteur de l'article insicte sur le fait que la page de connexion est probablement le premier contacte avec le service online. C'est la porte d'entrée du produit. Il fait la comparaison avec une porte d'entrée physique. Lorsceque nous
+L'auteur de l'article insiste sur le fait que la page de connexion est probablement le premier contacte avec le service en ligne. C'est la porte d'entrée du produit. Il fait la comparaison avec une porte d'entrée physique. Lorsque nous arrivons chez quelqu'un et que la poignée est branlante, ou que la sonnerie ne fonctionne pas. Alors nous avons instinctivement moins confiance en vers la propriété. Cependant, si la porte d'entrée s'ouvre automatique et rapidement, alors nous commençons notre visite agréablement.
+
+### 1. Ne pas pouvoir afficher la valeur du mot de passe
+
+<img src="/labeveilletech/images/afficherMotDePasse.webp">
+
+### Pour la suite
+
+L'article de **_Alex Slatkus_** est un article intéressant qui permet d'apporter une attention à la page de connexion. Ces informations et son expérience sont très intéressantes à prendre en compte pour de prochains projets. À l'avenir, lorsque je vais devoir designer une interface de connexion, je vais alors pouvoir me référer à l'expérience de **_Alex Slatkus_**.
+
+C'est pour ma part une bonne opportunité que d'avoir lu son article. Je n'étais pas aux claires sur l'ensemble de ces points à éviter. Typiquement d'avoir la réflexion de ne pas faire des champs de textes trop courts. Ou alors également de laisser une page de connexion sobre de toute annonce marketing.
+
+> **_Alex Slatkus_** m’a permis de mettre en avant le fait qu'une page de connexion est la porte d'entrée du produit digital. Il est donc nécessaire d'appliquer toutes les bonnes pratiques.
+
+> Autheur Alex Slatkus <br> [Rappel de la source de l'article et des images](https://blog.prototypr.io/dont-do-these-things-on-your-login-page-78497189aa01)
