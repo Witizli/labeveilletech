@@ -13,3 +13,7 @@ La page de connexion est un aspect d'un site web qui peut facilement être négl
 ## La page de connexion et les éléments qui me feront ne jamais vouloir me connecter.
 
 > Autheur Alex Slatkus <br> [Source de l'article et des images](https://blog.prototypr.io/dont-do-these-things-on-your-login-page-78497189aa01)
+
+**_Alex Slatkus_** partage son avis basé sur son expérience des pages de connexion. Selon lui, il existe des bonnes pratiques a réaliser. Également de mauvaise pratique à ne surtout pas réaliser. C'est justement de quoi traite l'article. **_Alex Slatkus_** nous explique selon lui les cinq chose à éviter dans une page de connexion.
+
+L'auteur de l'article insicte sur le fait que la page de connexion est probablement le premier contacte avec le service online. C'est la porte d'entrée du produit. Il fait la comparaison avec une porte d'entrée physique. Lorsceque nous
