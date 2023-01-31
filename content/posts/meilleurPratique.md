@@ -98,3 +98,44 @@ Une bonne approche est d'éviter de créer des longs formulaires et qu'ils soit 
 > Voici un exemple d'un formulaire utilisant les bonnes pratiques.
 
 <img src="/labeveilletech/images/bonnePratiqueFormulaire.webp">
+
+### 6. Obtenir des commentaires directs
+
+<img src="/labeveilletech/images/bonnePratiqueCommentaire.webp">
+
+Afin de réaliser une bonne application, il est important de réaliser des sondages basé sur l'experience des clients. Lors de la conception de l'interface, il est important de tester l'application avec les vrai consommateur potentils afin de comprendre leur besoins, leur envies et leur frustrations.
+
+Il est possible de réaliser plusieurs tests. Soit sous forme de sondage. C'est un test dit quantitative. Il va être envoyé a un grand nombre. Soit un test dit qualitative. Un test réalisé avec un plus petit nombre de personne et sous forme d'un entretient entre le facilitateur et le testeur. Dans les deux cas, cela va permettre de déterminer des besoins non mis en avant et de quel manière il est possible d'encore améliorer l'expérience d'utilisation.
+
+De plus, une fois l'application disponible pour tous, il est intéressant d'aller voir les avis des consommateurs. Il est possible de les obtenirs très facilement depuis les commentaires dans les pages de téléchargement de l'application sur les plates formes [Google Play](https://play.google.com/) ou [Appstore](https://apps.apple.com/). Ces informatons sont très crucial, puisqu'ils viennent directement des consommateur dans leur utilisation de l'application. Le produit est pour eux et c'est eux qui peuvent nous guider afin d'améliorer le produit.
+
+### 7. Les textes
+
+Dans l'ensemble, les textes doivent courts, simple et facilement lisibles.
+
+- Les textes doivent être faciles à lire
+
+Le texte doit être facilement lisible. Ce qui implique qu'il n'y a pas besoin de grossisement du texte pour le lire. Et que le contraste avec l'arrière-plan et le texte doit être suffisament réussi pour lire le contenu simplement. **_Catherine Bibik_** affirme que selon Apple et Google, nous pouvons utiliser une police avec une taille à 12 points. Ce qui permettra une lisibilitée aisée.
+
+- Les textes doivent être courts
+- Les textes peuivent être rempalcés par une image
+
+### 8. Augmenter la vitesse de l'application
+
+Personne n'aime attendre le chargement de l'application. Lorceque nous cliquons, nous voulons obtenir un résultat instantanée. Si nous devons attendre trop longtemps, alors le consomateur va quitter l'application. De ce fait, il est important d'optimiser l'application. Vois-ci quelques astuces :
+
+- Optimiser les images
+- Alléger le code
+- Réduire le nombre de plugins
+- Utiliser le cache
+- Mettre ajour l'application
+
+### 9. Apporter une assistances aux utilisateurs.
+
+<img src="/labeveilletech/images/bonnePratiqueAssistance.webp">
+
+Les utilisateurs apprécies fortement pouvoir facilement trouver de l'aide si besoins. C'est pourquoi lors de la conception d'une application, il est important de conceptualiser une aide au consomateur. Cela peu prendre plusieurs forme. Mais il est important de proposer a l'utilisateur la possibilité de trouver une aide. Que ce soit par la proposition d'une page FAQ en libre service. Comme une assistance en directe via un clic pour appeler un chatbots. L'aide doit être facilement accessible. Les utilisateurs recherchent généralement de l'aide dans la barre d'outils ou le menu d'une application mobile.
+
+### 10.Tester l'application
+
+Cela peu parretre simple comme astuces. Toutefois, elle est très importante. Avant de mettre en ligne une application, il est important de la faire tester. Ceci va permettre de déterminer les derniers ajouts afin d'améliorer l'expérience utilisateur en étant plus précis dans leur besoins et leur attentes. De plus, faire tester l'application va permettre de détermienr les bugs. Ce qui permet biensur de les corrigers. Ainsi, nous évitons de mettre une application mibile en ligne remplis de bugs. Ce qui inévitablement aurai eu comme conséquence de perdre un grand nombre de consommateur qui aurai rapidement désinstaller l'application.
