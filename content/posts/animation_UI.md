@@ -1,6 +1,6 @@
 ---
 title: "L'animation d'interface, de bon a très bon"
-date: 2023-01-18T17:01:43+01:00
+date: 2023-01-29T17:01:43+01:00
 description: "Les interfaces digitales peuvent être froides et difficiles à comprendre. C'est pourquoi il est important d'utiliser des animations pour les rendre plus vivantes et faciliter la compréhension de l'utilisateur. Les animations aident également à interpréter le support digital et rendent l'interface plus moderne et ludique."
 image: images/animationHeader.webp
 draft: false
