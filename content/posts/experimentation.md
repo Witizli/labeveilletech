@@ -88,7 +88,7 @@ MDMZ propose d'apporter une ambiance chalereuse avec une couleur de ciel orangé
 
 Présentation de la réalisation final selon la version de MDMZ
 
-<img src="/labeveilletech/images/animationTrain.gif">
+<img src="/labeveilletech/images/animationTrain_v2.gif">
 
 #### Pour conclure
 
