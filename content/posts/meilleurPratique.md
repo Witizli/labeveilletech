@@ -54,4 +54,47 @@ Recherche de quel manière les utilisateurs tiennent leur téléphones selon l'�
 
 <img src="/labeveilletech/images/bonnePratiqueTenir.webp">
 
+Vois-ci les trois manières principales dont nous tennons un smartphone. Et nous passons tous de l'un a l'autre durant l'utilisation du mobile.
+
 <img src="/labeveilletech/images/bonnePratiqueTenir2.webp">
+
+Selon l'étude, 67% des utilisateurs utilisent leur smartphone depuis la main droite. Et seulement 33% depuis la gauche. Par conséquent, la conception d'une interface mobile doit prendre en compte cette aspect. Il est nécessaire d'apporter des solutions aisées au plus grand nombre. Sans pour autant ne pas prendre en compte le plus faible pourcentage d'utilisateur.
+
+#### Utiliser des gestes
+
+Il est nécessaire de mettre en pratique les gestes habituels des smartphones. Par exemple sur un smartphone il est de coutume de pouvoir zoomer ou dézoomer en pincant l'écrant avec deux doigts. Il est donc nécessaire d'apporter cette fonctionnalitée a l'application. Tout comme sur Iphone il est possible de revenir en arrière avec un simple ballayement de l'écrant vers la gauche. L'application doit également prendre en compte cette optionn de navigation. Les utilisateurs sont habitués a avoir une certaine technique de navigation. Il est donc nécessaire d'apporter ces mêmes options de navigation sur notre application mobile. Ainsi, l'utilisateur se sentira dans un environement familier.
+
+#### Les animations
+
+**_Catherine Bibik_** rappel que les animations sont un aspects très apprécier par les utilisateur. En effet, cela rend plus ludique et accessible les interfaces digitaux. Cela permet de mieux suivre l'action d'une application.
+
+> Pour en savoir plus sur les bonnes pratiques des animations vous pouvez accédez à cette article [L'animation d'interface de bon a très bon](https://witizli.github.io/labeveilletech/posts/animation_ui/).
+
+### 4. Flouter l'interface
+
+<img src="/labeveilletech/images/bonnePratiqueFlouter.webp">
+
+Pas véritablement une bonne pratique pour l'interface final. Mais une bonne pratique pour concevoir l'interface. **_Catherine Bibik_** nous donne là une astuces de conception très utils.
+
+L'autheuse de l'article propose de flouter l'interface afin de mieux se rendre compte des éléments qui ressortes le mieux. Dans cette exemple, l'interface flouter montre qu'il y a une interaction a faire et qu'ensuite l'interface nous guide vers le bouton rouge. Ce qui est une mauvaise pratique. Puisqu'en effet, le bouton rouge ne valide pas l'action. Par conséquent, nous pouvons comprendre qu'il faut apporter une modification au bouton de validation afin de faire ressortir l'élément principal.
+
+<img src="/labeveilletech/images/bonnePratiqueFlouter2.webp">
+
+Avec cette modification, le bouton de validation est maintenant bien plus visible. Ce qui facilite la lisibilitée et l'interaction de l'application pour le consommateur. La méthode de flou permet de vérifier facilement l'interface utilisateur. Ainsi que de mettre en évidementes les éléments primaires et secondaires. Et d'apporter des modifications si besoins.
+
+### 5. Concevoir un formulaire mobiles agréables.
+
+L'autheuse rappel que l'objectif d'un formulaire c'est qu'il soit remplis et envoyé. Cela parret basique, toutefois un formulaire non envoyé, est un formulaire inutile et qui doit être amélioré. Il faut rendre un formulaire le plus agréable d'utilisation possible et le plus simple.
+
+Une bonne approche est d'éviter de créer des longs formulaires et qu'ils soit fluide.
+
+**_Catherine Bibik_** donne ces précieux conseiles.
+
+- Divisez les grands formulaires sur plusieurs écrans à remplir étape par étape.
+- Ajouter uniquement les informations nécessaire dans les formulaires
+- Utilisez les boutons de suggestion automatique, "suivant" et "précédient" pour accélérer et simplifier le processus de remplissage.
+- Ne pas utiliser les barres de défilement.
+
+> Voici un exemple d'un formulaire utilisant les bonnes pratiques.
+
+<img src="/labeveilletech/images/bonnePratiqueFormulaire.webp">
