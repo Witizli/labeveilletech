@@ -2,7 +2,7 @@
 title: "Faut-il être un artiste avant de réaliser des interfaces?"
 date: 2023-01-19T20:57:42+01:00
 description: "La formation en design graphique est un atout précieux pour un UX/UI designer. Elle permet de comprendre les principes fondamentaux de la composition visuelle et de la typographie, qui sont importants pour la création de maquettes efficaces."
-image: images/wireframe_outil_ui_designer.jpeg
+image: images/designArtiste.jpeg
 draft: false
 ---
 

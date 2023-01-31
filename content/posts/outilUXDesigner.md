@@ -2,7 +2,7 @@
 title: "Le métier de l'UX Designer"
 date: 2023-01-19T20:24:14+01:00
 description: "L'UX designer joue un rôle clé dans la création de produits et de services qui répondent aux besoins et aux attentes des utilisateurs. Cela peut contribuer à augmenter la satisfaction des utilisateurs"
-image: images/wireframe_outil_ui_designer.jpeg
+image: images/uxDesignerMetier.jpeg
 draft: false
 ---
 
