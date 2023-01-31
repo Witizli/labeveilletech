@@ -24,7 +24,7 @@ Très complémentaire avec mon premier métier et me permet de devenir un futur 
 
 ## Mon Ikigai
 
-<img src="../images/IKIGAI_benaiah.png">
+<img src="../images/IKIGAI_benaiah_v2.png">
 
 ## Fiche de Domaine
 
