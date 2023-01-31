@@ -36,21 +36,21 @@ La première étape consiste à l'importer sous Figma.
 
 Ensuite, il faut utiliser l'extension Image Tracer tout en sélectionnant le bon calque. Une option s’ouvre et nous pouvons apporter quelques réglage à la vectorisation. Dans le cadre de l'expérimentation, je vais laisser les options par défaut.
 
-<img src="/labeveilletech/images/vectorisationFigmaOption.png>
+<img src="/labeveilletech/images/vectorisationFigmaOption.png">
 
 Comparons maintenant les deux versions.
 
-<img src="/labeveilletech/images/vectorisationFigmaResultat.png>
+<img src="/labeveilletech/images/vectorisationFigmaResultat.png">
 
 En l'état, nous ne voyons pas vraiment de différence. La vectorisation semble avoir bien fonctionné. Ma première impression est que l'outil semble très pratique et simple a utiliser. Regardons maintenant de plus près.
 
-<img src="/labeveilletech/images/figmaAvantApresVectoai.png>
+<img src="/labeveilletech/images/figmaAvantApresVectoai.png">
 
 Nous pouvons voir que la vectorisation a bien fonctionné. Il y a une différence marquée entre la version de gauche qui est en bitmap et la version de droite qui est vectorisée. L'outil semble bien fonctionner. Ce qui est intéressant, c'est qu'avec la vectorisation, les points d'ancrages sont modifiables. Je peux maintenant retravailler mon image.
 
 Pour terminer cette expérimentation, j'aimerais apporter une comparaison de vectorisation depuis l'extension Image Tracer sous Figma et l'outil de vectorisation depuis Illustrator
 
-<img src="/labeveilletech/images/vectorisationFigmaVSIllustrator.png>
+<img src="/labeveilletech/images/vectorisationFigmaVSIllustrator.png">
 
 Nous pouvons voir qu'il y a une différence de vectorisation entre les deux versions. Pour rappel, j'ai volontairement laissé les options de vectorisation par défaut. Ceci dans l'objectif de voir ce que propose de base l'algorithme.
 
