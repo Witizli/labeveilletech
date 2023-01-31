@@ -70,7 +70,7 @@ Par conséquent, l'expérimentation de l'outil me permet d'affirmer que je vais 
 
 Pour la suite, nous allons découvrir ensemble l'outil Pathfinder depuis Figma. Ce tutoriel est présenté par la chaine YouTube [Grafists](https://www.youtube.com/@Grafists)
 
-Je suis un habitué du Pathfinder sous Adobe Illustrator. Toutefois, j'ai souhaité essayer le Pathfinder avec Figma. Initialement je ne trouvais pas cette option. J'ai vu grâce à la vidéo cité précédemment que le Pathfinder est enfaite intégrer a Figma de base. Cela ne demande pas d'exemption comme pour la vectorisation.
+Je suis un habitué du Pathfinder sous Adobe Illustrator. Toutefois, j'ai souhaité essayer le Pathfinder avec Figma. Initialement je ne trouvais pas cette option. J'ai vu grâce à la vidéo cité précédemment que le Pathfinder est enfaite intégrer a Figma de base. Cela ne demande pas d'extension comme pour la vectorisation.
 
 L'outil fonctionne de manière très similaire entre les deux logiciels. Je ne vais donc pas grandement m'attarder là-dessus.
 
