@@ -1,6 +1,6 @@
 ---
 title: "Améliorer l'expérience d'une application mobile en 10 étapes"
-date: 2023-01-31T13:04:23+01:00
+date: 2023-01-30T22:04:23+01:00
 description: "Catherine Bibik affirme qu'en 2022 les consommateurs ont téléchargé 255 milliards d'applications mobiles sur leurs appareils connectés. C'est un chiffre qui est en hausse de plus de 80% depuis 2016. Avec une augmentation aussi astronomique, il est plus que nécessaire de réussir une application de qualité. Puisque les chiffres démontrent clairement que les consommateurs utilisent pleinement les applications mobiles."
 image: images/bonnePratique_header.webp
 draft: false
