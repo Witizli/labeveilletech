@@ -25,3 +25,33 @@ Ainsi, il est donc nécessaire d'apporter une conception UX de qualitée afin qu
 ### 1. Une conception de l'application simple
 
 <img src="/labeveilletech/images/bonnePratiqueSimple.webp">
+
+**_Catherine Bibik_** rappel que les utilisateurs ont un objeectifs en tête. Ils souhaite réussir à atteindre leur objectifs. Pour y arriver, ils veulent éviter toutes frustrations d'echec ou de détournement d'action. De ce fait, il faut concevoir l'application au plus simple possible. Mais par simple, cela ne veut pas dire que le design doit être ennuyeux ou monotone.
+
+Voila ce que l'autheuse veut dire par "simple" :
+
+- Charge cognitive minimale
+- Maximiser la facilité d'utilisation
+- Minimiser le nombre d'action
+- La logique de toutes les actions
+- Actions et design simple
+
+> Le bon design selon **_Catherine Bibik_** est celui d'une application mobile qui reste minimaliste et fonctionnel. Avec des graphismes laconique. Ainsi que suffisament d'espace entre les éléments et une palettes de couleurs hormonieuse.
+
+### 2. Rendre l'application intuitive et cohérente
+
+Il est nécessaire de faire en sort d'éviter au maximume que l'utilisater est besoin de réfléchir lors de l'utilisation de l'application mobile. L'interface doit pouvoir guider suffisement l'utilisateur.
+
+Il est nécessaire de faire en sorte que les fonctionnalités soit facile à trouver dans l'application. Avoir une superbe fonctionnalités que personne ne trouve est totalement inutil. Par conséquent, il est nécessaire de faire en sorte que chaque éléments de l'application soit faciles à trouver. Par exemple en faisant en sorte que l'utilisateurs puissent facilement naviguer d'un écran à l'autre et revenir en arriève sans difficulté.
+
+### 3. Interaction avec votre application
+
+**_Catherine Bibik_** souhaite faire un rappel sur la manière dont les utilisateurs tiennent leur téléphones. C'est un point à ne pas négliger. Une application qui fait avec des boutons hors d'accès ne serra pas agréable a utiliser. Il est donc nécessaire de prendre en compte la manière de tenir un smartphone.
+
+Il existe différentes taches sur un smartphone et chacune d'entre elle demande de tenir son téléphone d'une manière différente. Il est donc nécessaire d'avoir cette reflexion lors de la conception de l'interface de l'application.
+
+Recherche de quel manière les utilisateurs tiennent leur téléphones selon l'études de [Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php) et [Josh Clark](https://alistapart.com/article/how-we-hold-our-gadgets/) :
+
+<img src="/labeveilletech/images/bonnePratiqueTenir.webp">
+
+<img src="/labeveilletech/images/bonnePratiqueTenir2.webp">
