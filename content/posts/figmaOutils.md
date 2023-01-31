@@ -19,7 +19,7 @@ Figma est un outil de conception d'interface en ligne qui permet aux designers d
 
 1. La collaboration en temps réel : Figma permet aux designers de travailler simultanément sur les mêmes fichiers, ce qui facilite la collaboration et la communication entre les membres de l'équipe.
 
-2. La compatibilité multi-plateforme : Figma est accessible à partir de n'importe quel navigateur web, ce qui permet aux designers de travailler sur des projets depuis n'importe quel ordinateur ou appareil mobile.
+2. La compatibilité multiplateforme : Figma est accessible à partir de n'importe quel navigateur web, ce qui permet aux designers de travailler sur des projets depuis n'importe quel ordinateur ou appareil mobile.
 
 3. La possibilité de faire des commentaires et de recevoir des feedbacks : Figma permet aux designers de recevoir des commentaires et des feedbacks en temps réel, ce qui facilite la communication entre les membres de l'équipe et permet de prendre en compte les commentaires des utilisateurs finaux.
 

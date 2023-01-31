@@ -34,7 +34,7 @@ Dans l'illustration au-dessus, l'auteur en profite également pour montrer le ma
 
 L'auteur de l'article explique que les personnes qui travaillent dans le marketing voient la page de connexion comme une aubaine pour du contenu publicitaire. Cependant, c'est apparemment une très mauvaise pratique.
 
-L'utilisateur va être distrayé lors de la connexion. De plus, le contenu marketing peut être perçu comme gênant pour l'utilisateur. Jusqu'au point où il peut complètement empêcher l'utilisateur de comprendre où sont les champs de formulaires.
+L'utilisateur va être distrait lors de la connexion. De plus, le contenu marketing peut être perçu comme gênant pour l'utilisateur. Jusqu'au point où il peut complètement empêcher l'utilisateur de comprendre où sont les champs de formulaires.
 
 Dans l'exemple au-dessus, la page de connexion souhaite communiquer à propos de cartes de crédit. **_Alex Slatkus_** insiste sur le fait que ces informations ne sont pas au bon endroit et que l'utilisateur peut être intéressé de lire ce contenu plus tard dans le site web.
 

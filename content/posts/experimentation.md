@@ -34,7 +34,7 @@ La première étape consiste à l'importer sous Figma.
 
 <img src="/labeveilletech/images/vectorisationFigma.png">
 
-Ensuite, il faut utiliser l'extension Image Tracer tout en sélectionnant le bon calque. Une option s’ouvre et nous pouvons apporter quelques réglage à la vectorisation. Dans le cadre de l'expérimentation, je vais laisser les options par défaut.
+Ensuite, il faut utiliser l'extension Image Tracer tout en sélectionnant le bon calque. Une option s’ouvre et nous pouvons apporter quelques réglages à la vectorisation. Dans le cadre de l'expérimentation, je vais laisser les options par défaut.
 
 <img src="/labeveilletech/images/vectorisationFigmaOption.png">
 
@@ -88,7 +88,7 @@ Ce tutoriel va permettre de travailler avec les logiciels Adobe Photoshop et Aft
 
 #### Adobe Photoshop
 
-Pour faire un rappel, Photoshop est un logiciel de retouche d'image. Celui-ci permet de modifier des photographies et également de réaliser des montages à partir de plusieurs images. Par exemple créer des paysages fantaisistes, aussi appelés par le terme Matte Painting. Photoshop permet aussi de réaliser du Digital Painting. C'est-à-dire du dessin qui simule le papier et le crayon et pinceau via une tablette graphique.
+Pour faire un rappel, Photoshop est un logiciel de retouche d'image. Celui-ci permet de modifier des photographies et également de réaliser des montages à partir de plusieurs images. Par exemple, créer des paysages fantaisistes, aussi appelés par le terme Matte Painting. Photoshop permet aussi de réaliser du Digital Painting. C'est-à-dire du dessin qui simule le papier et le crayon et pinceau via une tablette graphique.
 
 Dans ce tutoriel, la première étape va être de préparer les images qui seront utiles par la suite pour créer l'animation.
 
@@ -106,7 +106,7 @@ Une fois chaque élément découpé, il nous faut les exporter un par un afin d'
 
 #### Adobe After Effects
 
-Ce logiciel est avant un logiciel qui permet de réaliser des animations dites Motion Design. After Effects est également un logiciel qui permet de travailler les productions audiovisuelles. Par exemple en apportant des effets spéciaux aux métrages.
+Ce logiciel est avant un logiciel qui permet de réaliser des animations dites Motion Design. After Effects est également un logiciel qui permet de travailler les productions audiovisuelles. Par exemple, en apportant des effets spéciaux aux métrages.
 
 Une fois touts les éléments photographiques obtenus dans l'étape sous Adobe Photoshop, il est maintenant temps d'importer ces éléments sous Adobe After Effects.
 

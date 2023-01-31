@@ -18,7 +18,7 @@ De plus, en tant que concepteur d'interface digital, il est important de respect
 
 **Les outils**
 
-[Muzli](https://muz.li/) est un système de veille disponible sur le navigateur Google Chrome. Il suffit d'installer l'extension pour que Muzli devienne la page d'accueil lors de l'ouverture du navigateur. Muzli est spécialisé dans la veille de Design. Design graphique, design d'interface web, d'architecture et, etc. Muzli permet de voir l'évolution du design à chaque ouverture du navigateur. Il est possible de sélectionner avec précision les domaines que nous souhaitons voir en priorité. Ce qui est très pratique avec le système Muzli, c'est qu'il centraliste plusieurs outils de veilles. En un clique, il est possible d'afficher les dernières tendances comme par exemple de : [Dribble](https://dribble.com), [Behance](https://www.behance.net), [Awwwards](https://www.awwwards.com), [CSS Winder](https://www.csswinner.com), [TED](https://www.ted.com) et pleins d'autres encores.
+[Muzli](https://muz.li/) est un système de veille disponible sur le navigateur Google Chrome. Il suffit d'installer l'extension pour que Muzli devienne la page d'accueil lors de l'ouverture du navigateur. Muzli est spécialisé dans la veille de Design. Design graphique, design d'interface web, d'architecture et, etc. Muzli permet de voir l'évolution du design à chaque ouverture du navigateur. Il est possible de sélectionner avec précision les domaines que nous souhaitons voir en priorité. Ce qui est très pratique avec le système Muzli, c'est qu'il centraliste plusieurs outils de veilles. En un clique, il est possible d'afficher les dernières tendances comme par exemple de : [Dribble](https://dribble.com), [Behance](https://www.behance.net), [Awwwards](https://www.awwwards.com), [CSS Winder](https://www.csswinner.com), [TED](https://www.ted.com) et pleins d'autres encore.
 
 [NewFlux](https://newflux.fr/) _L'actualité du design racontée par des passionnés_ voila le titre de ce site web. Très intéressant pour les métiers en lien avec le design digital. NewFlux est un site web où l'on discute de l'actualité en UX / UI. La plateforme propose également des sujets spécifiques afin d'améliorer la création des contenus digitaux.
 
@@ -42,13 +42,13 @@ Devenus l'une des ressources majeures, les réseaux sociaux sont très présents
 
 [Basti UI](https://www.youtube.com/@BastiUi) une chaine YouTube avec une personnalité très sympathique. Basti UI parle des tendances de design d'interface. Il décortique des sites web existants. Et donne des astuces dans la création d'interfaces.
 
-[DesignSenss](https://www.youtube.com/@DesignSense) est une chaine YouTube qui met en avant les tendances d'interfaces digitales. DesignSens parle d'UX / UI, mais également de design digital globalité.
+[DesignSenss](https://www.youtube.com/@DesignSense) est une chaine YouTube qui met en avant les tendances d'interfaces digitales. DesignSens parle d'UX / UI, mais également de design digital en globalité.
 
 [DesignCourse](https://www.youtube.com/@DesignCourse) met en avant des cours dans la conception d'interface web et application mobile. La page met en avant l'utilisation du logiciel Figma. Ce qui permet d'améliorer ses compétences avec ce software.
 
 ---
 
-**Pour aller plus loins**
+**Pour aller plus loin**
 
 Un designer UX/UI doit observer au-delà de son domaine d'expertise. Le web est tellement vaste qu'il est important de comprendre les autres aspects liés à celui-ci. Il est donc judicieux de se tenir informé des dernières évolutions en matière de technologies digitales.
 

@@ -12,7 +12,7 @@ Les animations peuvent jouer un rôle crucial dans la création d'une expérienc
 
 De plus, les animations peuvent rendre l'interface plus agréable à utiliser en ajoutant une dimension de mouvement et de dynamisme. Les utilisateurs sont plus enclins à interagir avec une interface qui est animée et vivante plutôt qu'une interface statique et plate. Les animations peuvent également ajouter de la personnalité à un site web ou une application, et les rendre plus mémorables pour l'utilisateur.
 
-En soit, les animations peuvent indiquer à l'utilisateur qu'une action est en cours, comme le chargement d'une page ou d'une fonctionnalité. Cela permet à l'utilisateur de savoir ce qui se passe et de comprendre pourquoi certains éléments de l'interface sont actuellement inactifs ou indisponibles. Cela peut également aider à réduire l'anxiété de l'utilisateur en lui donnant une indication visuelle de l'avancement d'une action.
+En soi, les animations peuvent indiquer à l'utilisateur qu'une action est en cours, comme le chargement d'une page ou d'une fonctionnalité. Cela permet à l'utilisateur de savoir ce qui se passe et de comprendre pourquoi certains éléments de l'interface sont actuellement inactifs ou indisponibles. Cela peut également aider à réduire l'anxiété de l'utilisateur en lui donnant une indication visuelle de l'avancement d'une action.
 
 Enfin, les animations peuvent guider l'utilisateur à travers une interface en indiquant clairement les étapes à suivre pour accomplir une tâche. Cela peut aider les utilisateurs qui peuvent être moins familiers avec l'interface à naviguer plus facilement et à réaliser les tâches pour lesquelles ils ont ouvert l'application. Les animations peuvent également aider à améliorer la compréhension de l'utilisateur en montrant les étapes d'une action ou en mettant en évidence les éléments importants.
 
@@ -34,7 +34,7 @@ L'article est très intéressant à parcourir, car il permet de réaliser que le
 
 Dans l'exemple ci-dessus, **_Pablo Stanley_** démontre que pour une même utilisation, une animation de transition apporte beaucoup. Il y a deux onglets, l'un à gauche et l'autre à droite. Cliquer affiche l'un et cache l'autre. Et vice-versa.
 
-Dans la version de droite, la clique permet à la section de naviguer vers la gauche ou la droite. Ce qui permet pour l'utilisateur d'avoir une meilleure représentation de l'espace à travers l'interface. De plus, cette animation de transition permet également de créer une navigation avec un _swipe_ de gauche à droite. Ce qui facilite encore d'avantage l'expérience de l'utilisateur.
+Dans la version de droite, la clique permet à la section de naviguer vers la gauche ou la droite. Ce qui permet pour l'utilisateur d'avoir une meilleure représentation de l'espace à travers l'interface. De plus, cette animation de transition permet également de créer une navigation avec un _swipe_ de gauche à droite. Ce qui facilite encore davantage l'expérience de l'utilisateur.
 
 <img src="/labeveilletech/images/connectElements.gif">
 <img src="/labeveilletech/images/pushOther.gif">
@@ -49,7 +49,7 @@ Encore une fois, l'animation du bouton dans les deux cas veut dire la même chos
 
 ### Pour la suite
 
-L'article de Pablo Stanley montre à quel point les animations peuvent être importantes dans l'expérience utilisateur. Pour la suite des projets, je comprends d'avantages qu'il est nécessaire d'apporter des animations. Et qu'il existe un niveau de performance d'animation. Il ne faut pas faire une animation de transition pour en faire une. Mais celle-ci doit servir l'interface. L'animation doit aider l'utilisateur à mieux comprendre le système. C'est un point très important que Pablo Stanley démontre dans son article.
+L'article de Pablo Stanley montre à quel point les animations peuvent être importantes dans l'expérience utilisateur. Pour la suite des projets, je comprends davantage qu'il est nécessaire d'apporter des animations. Et qu'il existe un niveau de performance d'animation. Il ne faut pas faire une animation de transition pour en faire une. Mais celle-ci doit servir l'interface. L'animation doit aider l'utilisateur à mieux comprendre le système. C'est un point très important que Pablo Stanley démontre dans son article.
 
 Maintenant, est-il nécessaire d'apporter une telle complexité dans chacun de mes prochains projets ? Je peux affirmer que même si les animations démontrées apportent une véritable plus-value, ils ne sont pas nécessaires pour chacun des projets. Cela dépend du contexte et de l'investissement qu'il est possible de donner. Pour un petit projet, l'investissement des animations est certainement trop important. Toutefois, pour un grand projet qui permet un investissement total, alors la réflexion à avoir avec les animations est totalement justifiée.
 

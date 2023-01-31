@@ -20,12 +20,12 @@ Un bon UX designer peut utiliser plusieurs outils pour mener à bien ses projets
 
 <!-- - Analyse du site web / application existant
 - Hiérarchisation de l'information
-- Test utilisateur de tri de carte afin de valider des hyopthèse de hiérarchisation
+- Test utilisateur de tri de carte afin de valider des hypothèses de hiérarchisation
 - Création de persona afin de mieux comprendre qui sont les utilisateurs
-- création de sidemap afin de réaliser différentes parcours utilisateurs.
+- création de sidemap afin de réaliser différents parcours utilisateurs.
 - Test de l'interface avec une technique de pensée à voix haute.  -->
 
-L'analyse du site web ou de l'application existant est un outil clé pour l'UX designer. Il permet de comprendre les forces et les faiblesses de l'interface actuelle et de déterminer les zones à améliorer. Cela peut inclure l'analyse de la navigation, du contenu, de l'expérience utilisateur et des performances.
+L'analyse du site web ou de l'application existants est un outil clé pour l'UX designer. Il permet de comprendre les forces et les faiblesses de l'interface actuelle et de déterminer les zones à améliorer. Cela peut inclure l'analyse de la navigation, du contenu, de l'expérience utilisateur et des performances.
 
 La hiérarchisation de l'information est également importante pour l'UX designer. Il s'agit de déterminer l'importance de chaque élément de l'interface et de les organiser en conséquence. Cela peut inclure la détermination de la taille et de la couleur des éléments, ainsi que leur emplacement sur la page.
 

@@ -14,7 +14,7 @@ Je suis un designer spécialisé dans les contenus interactifs et digitaux. Il y
 
 Pour continuer à améliorer mes compétences, je suis actuellement en train de terminer une spécialisation de niveau Bachelor d'**_Ingénierie des Médias_** dans une HES-SO.
 
-> Ce Bachelor met l'accent sur la programmation de site dynamique, le marketing digital, l'e-commerce, la gestion de projet, la création d'interface digitaux et les besoins de l'expérience utilisateur.
+> Ce Bachelor met l'accent sur la programmation de site dynamique, le marketing digital, l'e-commerce, la gestion de projet, la création d'interfaces digitales et les besoins de l'expérience utilisateur.
 
 Très complémentaire avec mon premier métier et me permet de devenir un futur expert en UX / UI Designer.
 
