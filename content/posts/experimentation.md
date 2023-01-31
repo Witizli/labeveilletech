@@ -68,6 +68,20 @@ Par conséquent, l'expérimentation de l'outil me permet d'affirmer que je vais 
 
 <iframe width="100%" height="563px" src="https://www.youtube.com/embed/eFyADunUsXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Pour la suite, nous allons découvrir ensemble l'outil Pathfinder depuis Figma. Ce tutoriel est présenté par la chaine YouTube [Grafists](https://www.youtube.com/@Grafists)
+
+Je suis un habitué du Pathfinder sous Adobe Illustrator. Toutefois, j'ai souhaité essayer le Pathfinder avec Figma. Initialement je ne trouvais pas cette option. J'ai vu grâce à la vidéo cité précédemment que le Pathfinder est enfaite intégrer a Figma de base. Cela ne demande pas d'exemption comme pour la vectorisation.
+
+L'outil fonctionne de manière très similaire entre les deux logiciels. Je ne vais donc pas grandement m'attarder là-dessus.
+
+Il y a toutefois une différence flagrante. Depuis Figma, lors d'une transformation de forme via le Pathfinder, la forme n'est pas découpée. Au contraire, elle est masquée. Ce qui permet de modifier la forme sans destruction définitive. Ce qui est un point très appréciable.
+
+Contrairement à Illustrator ou la forme, est définitivement modifié. Il est nécessaire de créer des copies de sauvegarde. En l'occurrence depuis Figma il n'y a pas besoin puisque grâce au masque les formes initiales sont toujours présentes. Ce qui permet une modification de la forme finale.
+
+#### Pour conclure
+
+Je vais pouvoir utiliser les options de Pathfinder qu'il me manquait sur Figma. Maintenant que je sais que cela existe. C'est un outil très puissant qui permet une grande liberté de création. Je suis ravi d'avoir découvert que Figma propose l'outil de Pathfinder. Par conséquent, je ne vais plus avoir besoin d'Adobe Illustrator lorsque j'aurais besoins d'utiliser cet outil.
+
 ## Bosster ces créations graphiques
 
 <iframe width="100%" height="563px" src="https://www.youtube.com/embed/7tVyu-rjHbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
